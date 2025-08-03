@@ -1,0 +1,9 @@
+.flightTable{
+    border: 1px solid blue;
+}
+
+.flightTable td, th {
+    border: 1px solid blue;
+    text-align: center;
+    padding: 5px;
+}
